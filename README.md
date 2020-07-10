@@ -1,4 +1,11 @@
-### Hi there 👋
+![Rick](https://i.redd.it/nzb1dpwhwauy.png)
+# Hi there, my name is Rafael 🖖
+👱 24 y.o, software engineer and a entrepreneur from São Paulo, Brazil
+
+## Where am I?
+📶 - https://www.linkedin.com/in/mrgomides/
+
+📷 - https://www.instagram.com/mrgomides/
 
 <!--
 **mrgomides/mrgomides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
