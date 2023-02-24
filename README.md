@@ -1,12 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrgomides&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hi there, my name is Rafael 🖖
-👱 26 y.o, software engineer and tech lead from São Paulo, Brazil
-
-## Where am I?
-📶 - https://www.linkedin.com/in/mrgomides/
-
-📷 - https://www.instagram.com/mrgomides/
+👱 27 y.o, software engineer and tech lead from São Paulo, Brazil
 
 <!--
 **mrgomides/mrgomides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
